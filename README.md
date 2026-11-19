@@ -38,7 +38,7 @@ O fluxo foi desenhado em **wireframes de baixa fidelidade** para validar a hiera
 
 ## 4. Protótipo Interativo
 * **Ferramenta:** Figma (Wireframing, Grid Mobile e Prototipação Interativa)
-* **Acesse e teste o protótipo navegável:** [Clique aqui para abrir no Figma](COLE_SEU_LINK_DO_FIGMA_AQUI)
+* **Acesse e teste o protótipo navegável:** [Clique aqui para abrir no Figma](https://www.figma.com/design/b2de9W4LtHWfwKir1GIj1Z/App-Apoio-Social---Wireframes?node-id=19-14&t=Wvrj54pqbedNzlWP-1)
 
 ---
 
