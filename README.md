@@ -32,7 +32,7 @@ O fluxo foi desenhado em **wireframes de baixa fidelidade** para validar a hiera
 ### Wireframes do Fluxo
 | Login | Mapa de Serviços | Nova Abordagem | Histórico | Detalhes do Local |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Login](01%20-%20Login..png) | ![Mapa](02%20-%20Mapa%20de%20Servi%C3%A7os.png) | ![Abordagem](03%20-%20Nova%20Abordagem.png) | ![Historico](04%20-%20Hist%C3%B3rico.png) | ![Detalhes](05%20-%20Detalhes%20do%20Local.png) |
+| ![Login](01%20-%20Login..png) | ![Mapa](02%20-%20Mapa%20de%20Servi%C3%A7os.png) | ![Abordagem](03%20-%20Nova%20Abordagem.png) | ![Historico](04%20-%20Hist%C3%B3rico.png) | ![Detalhes](05%20-%20Detalhes%20do%20Local.png)
 
 ---
 
